@@ -9,7 +9,7 @@
 - Download or clone the latest release.
 
 ```bash
-git clone https://github.com/mayTermux/lampTermux
+git clone https://github.com/mondij/lamp-stack-Termux.git
 ```
 
 - Move to directory
